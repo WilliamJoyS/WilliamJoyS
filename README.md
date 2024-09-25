@@ -1,1 +1,1 @@
-<img align = "right" src="https://visitor-badge.icu/badge?page_id=WilliamJoyS.WilliamJoyS"/>
+<img align = "right" src="https://visitor-badge.laobi.icu/badge?page_id=WilliamJoyS.WilliamJoyS"/>
