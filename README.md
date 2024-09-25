@@ -8,7 +8,9 @@
  ⌨️ I'm currently working on a Deep Learning **project**
  
  🧠 I’m currently learning **Deep Learning, Text Mining, Computer Vision**
-
+</br>
+</br>
+</br>
  </div>
  <div align="center"> 
   <a href="mailto:williamjoysusanto1@gmail.com">
