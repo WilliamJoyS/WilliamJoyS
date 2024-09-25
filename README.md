@@ -4,3 +4,11 @@
 </h1>
 
 <h3 align="center">A passionate computer Science student from BINUS University</h3>
+
+<div align="left">
+
+ ⌨️ I'm currently working on a Deep Learning project**
+ 
+ 🧠 I’m currently learning **Deep Learning, Text Mining, Computer Vision**
+
+ </div>
