@@ -11,6 +11,14 @@
 </br>
 </br>
  </div>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>  
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=jupyter,tensorflow,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,nextjs,mysql,html,css" /><br>
+</div>
+       
  <div align="center"> 
   <a href="mailto:williamjoysusanto1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
