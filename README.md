@@ -15,7 +15,7 @@
 <br/>  
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=jupyter,tensorflow,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=ipnyb,tensorflow,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=python,javascript,c,java,nextjs,mysql,html,css" /><br>
 </div>
        
