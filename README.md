@@ -5,7 +5,7 @@
 <h3 align="center">A passionate computer Science student from BINUS University</h3>
 <div align="left">
 
- ⌨️ I'm currently working on a **Website**
+ ⌨️ I'm currently working on **Improving Model & Recommender System**
  
  🧠 I’m currently learning **Deep Learning, Text Mining, Computer Vision**
 </br>
